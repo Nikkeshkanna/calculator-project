@@ -52,6 +52,3 @@ Through this project, I learned:
 
 Nikkeshkanna C V
 
-## Project Status
-
-Day 1 GitHub Project
